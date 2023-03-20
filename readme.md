@@ -10,17 +10,18 @@
 
   - Project-based part: https://github.com/cvollmann-teaching/richardson
 
-- **Main Ressources**
 
-  [1J J.Ernesti, P.Kaiser, *Python 3 - Das umfassende Handbuch*, Galileo Press, Bonn 2012, 3. Auflage.
+## **Main Ressources**
 
-  [2] [Scipy Lecture Notes](https://scipy-lectures.org/)
+[1J J.Ernesti, P.Kaiser, *Python 3 - Das umfassende Handbuch*, Galileo Press, Bonn 2012, 3. Auflage.
 
-  [3] [Official Python Documentation](https://docs.python.org/3/)
+[2] [Scipy Lecture Notes](https://scipy-lectures.org/)
 
-  [4] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+[3] [Official Python Documentation](https://docs.python.org/3/)
 
-- **License**:
+[4] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
-  The source codes are licensed under [GPL-3.0](https://github.com/cvollmann-teaching/richardson-pagerank/blob/main/LICENSE) and the content of the lecture notes is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+## **License**:
+
+The source codes are licensed under [GPL-3.0](https://github.com/cvollmann-teaching/richardson-pagerank/blob/main/LICENSE) and the content of the lecture notes is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
