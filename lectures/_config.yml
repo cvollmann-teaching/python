@@ -1,0 +1,5 @@
+# In _config.yml
+title: Python Course
+author: Dr. Christian Vollmann
+execute:
+  execute_notebooks: force
