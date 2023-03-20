@@ -9,6 +9,7 @@
 - It was a part in my programming course for first semester students at Trier University. Related repos are:
 
   - Project-based part: https://github.com/cvollmann-teaching/richardson
+  - Exercises can be found here (by [Manuel Klar](https://github.com/cagau)): https://github.com/cvollmann-teaching/exercises/tree/main/database/Python_Intro_de
 
 
 ## **Main Ressources**
